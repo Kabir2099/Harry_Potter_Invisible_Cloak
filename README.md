@@ -1,2 +1,2 @@
 # Harry_Potter_Invisible_Cloak
-Invisible cloak from Harry potter using Python
+This is a invisible cloak which vanishes you. Inspired from Harry potter. Using advanced python.
